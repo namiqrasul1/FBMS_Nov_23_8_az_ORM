@@ -1,6 +1,8 @@
 ﻿using Dapper;
 using Lesson1Dapper.Models;
+using Lesson1Dapper.Models.DTOs;
 using Microsoft.Extensions.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 using System.Threading.Channels;
 
@@ -107,8 +109,112 @@ using var sqlConnection = new SqlConnection(conStr); // using sonda dispose edir
 //var query = "Select [Name], Id, YearPress From Books";
 //var book = sqlConnection.QueryFirst<Book>(query);
 
+//var query = "Select [Name], Pages, Comment, Quantity From Books";
+
+//var books = sqlConnection.Query<BookDto>(query).ToList();
+
+
+
 #endregion
 
+#region OneToMany Querying
+
+//var query = "SELECT * FROM Books B JOIN Authors A ON B.Id_Author = A.Id";
+
+//var books = sqlConnection.Query<Book, Author, Book>(query,
+//    map: (book, author) =>
+//    {
+//        book.Author = author;
+//        return book;
+//    }, splitOn: "Id");
+
+
+//foreach (var book in books)
+//    Console.WriteLine($"{book.Name} - {book.Author.FirstName}");
+
+
+//var sqlQuery = "Select * From Authors A Join Books B On A.Id = B.Id_Author";
+
+//var authorDict = new Dictionary<int, Author>();
+
+//var author = sqlConnection.Query<Author, Book, Author>(sqlQuery,
+//    map: (author, book) =>
+//    {
+//        if(!authorDict.TryGetValue(author.Id, out Author currentAuthor))
+//        {
+//            currentAuthor = author;
+//            authorDict.Add(author.Id, currentAuthor);
+//        }
+
+//        if(book is not null)
+//        {
+//            book.Author = currentAuthor;
+//            currentAuthor.Books.Add(book);
+//        }
+
+//        return currentAuthor;
+
+//    }, splitOn: "Id");
+
+#endregion
+
+#region CreateUpdateDelete
+
+//var cmd = @"insert into Authors(Id, FirstName, LastName) values(@Id, @FirstName, @LastName)";
+
+////var anonymousObject = new { Id = 22, FirstName = "Tahir", LastName = "Aliyev" };
+////sqlConnection.Execute(cmd, param: anonymousObject);
+
+//var author = new Author { Id = 23, FirstName = "Huseyn", LastName = "Hasanzade" };
+//sqlConnection.Execute(cmd, author);
+
+//var cmd = @"insert into Authors(Id, FirstName, LastName) values(@Id, @FirstName, @LastName)";
+
+//var authors = new List<Author>()
+//{
+//    new() { Id = 22, FirstName = "Tahir", LastName = "Aliyev" },
+//    new() { Id = 23, FirstName = "Huseyn", LastName = "Hasanzade" }
+//};
+
+//sqlConnection.Execute(cmd, param: authors);
+
+
+
+
+
+//int.TryParse(Console.ReadLine(), out int id);
+//var cmd = "Delete From Authors Where Id = @Id";
+
+//sqlConnection.Execute(cmd, param: new { Id = 23 });
+
+//var cmd = "Update Authors Set LastName = @NewLastName Where Id = @Id";
+
+//sqlConnection.Execute(cmd, param: new { NewLastName = "Nesbozade", Id = 21 });
+
+#endregion
+
+#region StoredProcedure
+
+//var procName = "sp_get_author_books_by_id";
+
+//var parameters = new { authorId = 5 };
+//var result = sqlConnection.Query(sql: procName, 
+//                                param: parameters, 
+//                                commandType: CommandType.StoredProcedure);
+
+var procName = "sp_get_author_books_with_count";
+
+var parameters = new DynamicParameters();
+parameters.Add("authorId", 5, DbType.Int32, ParameterDirection.Input);
+parameters.Add("count", null, DbType.Int32, ParameterDirection.Output);
+
+var result = sqlConnection.Query(procName, parameters, commandType: CommandType.StoredProcedure);
+
+var count = parameters.Get<int>("count");
+Console.WriteLine(count);
+
+
+#endregion
 
 Console.WriteLine();
 Console.WriteLine();
