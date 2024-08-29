@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4EntityFrameworkCoreIntro", "Lesson4EntityFrameworkCoreIntro\Lesson4EntityFrameworkCoreIntro.csproj", "{BA26D7C9-788A-4257-8949-D3C11E32B5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstExample", "CodeFirstExample\CodeFirstExample.csproj", "{03B7FD6F-A591-43C3-9670-B7637620F604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA26D7C9-788A-4257-8949-D3C11E32B5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA26D7C9-788A-4257-8949-D3C11E32B5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA26D7C9-788A-4257-8949-D3C11E32B5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA26D7C9-788A-4257-8949-D3C11E32B5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B7FD6F-A591-43C3-9670-B7637620F604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B7FD6F-A591-43C3-9670-B7637620F604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B7FD6F-A591-43C3-9670-B7637620F604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B7FD6F-A591-43C3-9670-B7637620F604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA759C0-EA25-4234-9058-6BFD1C5FE461}
+	EndGlobalSection
+EndGlobal
