@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072414_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson5CodeFirst\\Migrations\\20240901072414_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_orm\\lesson5codefirst\\lesson5codefirst\\migrations\\20240901072414_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:lesson5codefirst\\migrations\\20240901072414_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_orm\\lesson5codefirst\\lesson5codefirst\\models\\onetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\lesson5codefirst\\models\\onetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:lesson5codefirst\\models\\onetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_orm\\lesson5codefirst\\lesson5codefirst\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\lesson5codefirst\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:lesson5codefirst\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072511_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson5CodeFirst\\Migrations\\20240901072511_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072214_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson5CodeFirst\\Migrations\\20240901072214_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_orm\\lesson5codefirst\\lesson5codefirst\\models\\manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\lesson5codefirst\\models\\manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:lesson5codefirst\\models\\manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_orm\\lesson5codefirst\\lesson5codefirst\\models\\onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\lesson5codefirst\\models\\onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:lesson5codefirst\\models\\onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az_orm\\lesson5codefirst\\lesson5codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\lesson5codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:lesson5codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072511_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:Lesson5CodeFirst\\Migrations\\20240901072511_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072214_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C02F509-D3FF-4037-9389-C47D37D6FA13}|Lesson5CodeFirst\\Lesson5CodeFirst.csproj|solutionrelative:Lesson5CodeFirst\\Migrations\\20240901072214_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "20240901072511_init3.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072511_init3.cs",
               "RelativeDocumentMoniker": "Lesson5CodeFirst\\Migrations\\20240901072511_init3.cs",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "Lesson5CodeFirst\\Migrations\\20240901072511_init3.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T07:25:11.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T07:25:11.233Z"
             },
             {
               "$type": "Document",
@@ -65,14 +64,14 @@
               "RelativeDocumentMoniker": "Lesson5CodeFirst\\Migrations\\20240901072414_init2.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072414_init2.cs",
               "RelativeToolTip": "Lesson5CodeFirst\\Migrations\\20240901072414_init2.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T07:24:14.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "20240901072214_init1.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Migrations\\20240901072214_init1.cs",
               "RelativeDocumentMoniker": "Lesson5CodeFirst\\Migrations\\20240901072214_init1.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "Lesson5CodeFirst\\Migrations\\20240901072214_init1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T07:22:14.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T07:22:14.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ManyToMany.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Models\\ManyToMany.cs",
               "RelativeDocumentMoniker": "Lesson5CodeFirst\\Models\\ManyToMany.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "Lesson5CodeFirst\\Models\\ManyToMany.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAA1wEIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T07:02:13.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T07:02:13.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "OneToMany.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Models\\OneToMany.cs",
               "RelativeDocumentMoniker": "Lesson5CodeFirst\\Models\\OneToMany.cs",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Lesson5CodeFirst\\Models\\OneToMany.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T06:42:10.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T06:42:10.813Z"
             },
             {
               "$type": "Document",
@@ -119,12 +115,11 @@
               "RelativeToolTip": "Lesson5CodeFirst\\Models\\OneToOne.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAAAD4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T05:31:52.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T05:31:52.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az_ORM\\Lesson5CodeFirst\\Lesson5CodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "Lesson5CodeFirst\\Program.cs",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Lesson5CodeFirst\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T05:28:10.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T05:28:10.803Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Lesson5CodeFirst\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwCcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T05:33:54.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T05:33:54.469Z"
             }
           ]
         }
